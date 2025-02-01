@@ -13,9 +13,5 @@ An advanced AI tool designed to **automatically detect and remove text** from an
 ✅ **Fast and Efficient** – Optimized for both CPU and GPU performance.  
 
 
-
-📜 License
-This project is licensed under the MIT License – free to use and modify.
-
 📩 Contact
 For any questions or support, open an issue in the repository or contact: mishavardanyanuio@gmail.com
